@@ -1,6 +1,6 @@
 ## Olá, seja bem-vindo(a)!
 
-Meu nome é Gabriel Chinaglia, sou Analista de Suporte na [GC do Brasil](https://www.grupogcdobrasil.com.br/) e futuro Desenvolvedor de Software.
+Meu nome é Gabriel Chinaglia, sou Analista de Suporte e Desenvolvedor de Software na [GC do Brasil](https://www.grupogcdobrasil.com.br/).
 
 🎓 Técnico e Tecnólogo em Análise e Desenvolvimento de Software - [ETEC](http://eteccamargoaranha.com.br/) / [Uninove](https://www.uninove.br/)
 
